@@ -1,0 +1,7 @@
+{
+  "name": "llm-gateway-cost-guard-demo",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=26" },
+  "scripts": { "test": "node --test" }
+}
